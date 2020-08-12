@@ -5,7 +5,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: Text('I am Rich'),
-          backgroundColor: Color.fromRGBO(21, 21, 21, 0.7),
+          backgroundColor: Color.fromRGBO(21, 21, 21, 0.8),
         ),
         backgroundColor: Colors.blueGrey,
         body: Center(
